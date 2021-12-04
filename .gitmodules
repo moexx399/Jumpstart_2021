@@ -1,3 +1,6 @@
 [submodule "Motion_Profiling/JavaMotionProfiling"]
 	path = Motion_Profiling/JavaMotionProfiling
 	url = git@github.com:moexx399/JavaMotionProfiling.git
+[submodule "Motion_Profiling/pathplanner"]
+	path = Motion_Profiling/pathplanner
+	url = git@github.com:mjansen4857/pathplanner.git
