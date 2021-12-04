@@ -1,0 +1,3 @@
+[submodule "Motion_Profiling/JavaMotionProfiling"]
+	path = Motion_Profiling/JavaMotionProfiling
+	url = git@github.com:moexx399/JavaMotionProfiling.git
